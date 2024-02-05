@@ -1,2 +1,4 @@
-# sosang
-1
+# AI Study
+
+AI 공부중
+
